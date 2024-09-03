@@ -7,14 +7,13 @@
 	display:flex;
 	border: 3px solid #e0e0e0;
 	align-items:center;
-	margin-bottom:20px;
 	justify-content:center;
 	font-size:16px;
 	color:#999;
 	background-color:#fff;
 }
 
-.button
+button
 {
 	padding:8px 30px;
 	margin:5px;
@@ -22,6 +21,7 @@
 	background-color:#3498db;
 	border-radius:6px;
 	color:#fff;
+	margin-left:50%;
 }
 .progress-bar
 {
